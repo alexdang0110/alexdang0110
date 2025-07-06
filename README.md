@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1><img src="https://github.com/alexdang0110/alexdang0110/blob/c5b4c99b6b0f400eba4ce05ab9ef4bbd7ce8faef/github-profile-header.png" width="30"/></h1>
+
 
 <!--
 **alexdang0110/alexdang0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
